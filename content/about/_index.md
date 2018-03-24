@@ -5,7 +5,7 @@ date = "2009-09-09T21:27:31.000Z"
 tags = []
 +++
 
-HAIKU is an open source operating system currently in development. Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels. Additionally, Haiku offers something over other open source platforms which is quite unique: The project consists of a single team writing everything from the kernel, drivers, userland services, tool kit, and graphics stack to the included desktop applications and preflets. While numerous open source projects are utilized in Haiku, they are integrated seamlessly. This allows Haiku to achieve a level of consistency that provides many conveniences, and is truly enjoyable to use by both end-users and developers alike.
+HAIKU is an open source operating system currently in development. Specifically targeting personal computing, Haiku is a fast, efficient, simple to use, easy to learn, and yet very powerful system for computer users of all levels. Additionally, Haiku offers something over other open source platforms which is quite unique: The project consists of a single team writing everything from the kernel, drivers, userland services, toolkit, and graphics stack to the included desktop applications and preflets. While numerous open source projects are utilized in Haiku, they are integrated seamlessly. This allows Haiku to achieve a level of consistency that provides many conveniences and is truly enjoyable to use by both end-users and developers alike.
 
 ## What's so good about Haiku anyway?
 
